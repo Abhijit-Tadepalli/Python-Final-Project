@@ -1,0 +1,15 @@
+/home/abhijit/pyproject_ws/install/ur/share/ament_index/resource_index/package_run_dependencies/ur
+/home/abhijit/pyproject_ws/install/ur/share/ament_index/resource_index/parent_prefix_path/ur
+/home/abhijit/pyproject_ws/install/ur/share/ur/environment/ament_prefix_path.sh
+/home/abhijit/pyproject_ws/install/ur/share/ur/environment/ament_prefix_path.dsv
+/home/abhijit/pyproject_ws/install/ur/share/ur/environment/path.sh
+/home/abhijit/pyproject_ws/install/ur/share/ur/environment/path.dsv
+/home/abhijit/pyproject_ws/install/ur/share/ur/local_setup.bash
+/home/abhijit/pyproject_ws/install/ur/share/ur/local_setup.sh
+/home/abhijit/pyproject_ws/install/ur/share/ur/local_setup.zsh
+/home/abhijit/pyproject_ws/install/ur/share/ur/local_setup.dsv
+/home/abhijit/pyproject_ws/install/ur/share/ur/package.dsv
+/home/abhijit/pyproject_ws/install/ur/share/ament_index/resource_index/packages/ur
+/home/abhijit/pyproject_ws/install/ur/share/ur/cmake/urConfig.cmake
+/home/abhijit/pyproject_ws/install/ur/share/ur/cmake/urConfig-version.cmake
+/home/abhijit/pyproject_ws/install/ur/share/ur/package.xml

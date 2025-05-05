@@ -1,0 +1,29 @@
+running egg_info
+creating ../../build/ur5_human_control/ur5_human_control.egg-info
+writing ../../build/ur5_human_control/ur5_human_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/ur5_human_control/ur5_human_control.egg-info/dependency_links.txt
+writing entry points to ../../build/ur5_human_control/ur5_human_control.egg-info/entry_points.txt
+writing requirements to ../../build/ur5_human_control/ur5_human_control.egg-info/requires.txt
+writing top-level names to ../../build/ur5_human_control/ur5_human_control.egg-info/top_level.txt
+writing manifest file '../../build/ur5_human_control/ur5_human_control.egg-info/SOURCES.txt'
+reading manifest file '../../build/ur5_human_control/ur5_human_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/ur5_human_control/ur5_human_control.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/abhijit/pyproject_ws/build/ur5_human_control/build
+creating /home/abhijit/pyproject_ws/build/ur5_human_control/build/lib
+creating /home/abhijit/pyproject_ws/build/ur5_human_control/build/lib/ur5_human_control
+copying ./ur5_human_control/ur5_moveit_control.py -> /home/abhijit/pyproject_ws/build/ur5_human_control/build/lib/ur5_human_control
+copying ./ur5_human_control/__init__.py -> /home/abhijit/pyproject_ws/build/ur5_human_control/build/lib/ur5_human_control
+running install
+running install_lib
+creating /home/abhijit/pyproject_ws/install/ur5_human_control/lib/python3.10/site-packages/ur5_human_control
+copying /home/abhijit/pyproject_ws/build/ur5_human_control/build/lib/ur5_human_control/ur5_moveit_control.py -> /home/abhijit/pyproject_ws/install/ur5_human_control/lib/python3.10/site-packages/ur5_human_control
+copying /home/abhijit/pyproject_ws/build/ur5_human_control/build/lib/ur5_human_control/__init__.py -> /home/abhijit/pyproject_ws/install/ur5_human_control/lib/python3.10/site-packages/ur5_human_control
+byte-compiling /home/abhijit/pyproject_ws/install/ur5_human_control/lib/python3.10/site-packages/ur5_human_control/ur5_moveit_control.py to ur5_moveit_control.cpython-310.pyc
+byte-compiling /home/abhijit/pyproject_ws/install/ur5_human_control/lib/python3.10/site-packages/ur5_human_control/__init__.py to __init__.cpython-310.pyc
+running install_egg_info
+Copying ../../build/ur5_human_control/ur5_human_control.egg-info to /home/abhijit/pyproject_ws/install/ur5_human_control/lib/python3.10/site-packages/ur5_human_control-0.0.0-py3.10.egg-info
+running install_scripts
+Installing ur5_moveit_control script to /home/abhijit/pyproject_ws/install/ur5_human_control/lib/ur5_human_control
+writing list of installed files to '/home/abhijit/pyproject_ws/build/ur5_human_control/install.log'

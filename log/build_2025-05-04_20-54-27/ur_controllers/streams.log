@@ -1,0 +1,124 @@
+[0.006s] Invoking command in '/home/abhijit/pyproject_ws/build/ur_controllers': CMAKE_PREFIX_PATH=/home/abhijit/pyproject_ws/install/ur_dashboard_msgs:/home/abhijit/pyproject_ws/install/ur_simulation_gazebo:/home/abhijit/pyproject_ws/install/ur:/home/abhijit/pyproject_ws/install/ur_calibration:/home/abhijit/pyproject_ws/install/ur_robot_driver:/home/abhijit/pyproject_ws/install/ur_moveit_config:/home/abhijit/pyproject_ws/install/ur_bringup:/home/abhijit/pyproject_ws/install/ur_description:/home/abhijit/pyproject_ws/install/ur_controllers:/home/abhijit/pyproject_ws/install/ur5_python_control:/opt/ros/humble LD_LIBRARY_PATH=/home/abhijit/pyproject_ws/install/ur_dashboard_msgs/lib:/home/abhijit/pyproject_ws/install/ur_robot_driver/lib:/home/abhijit/pyproject_ws/install/ur_controllers/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/abhijit/pyproject_ws/build/ur_controllers -- -j32 -l32
+[0.038s] [  5%] Built target gmock_main
+[0.038s] [ 11%] Built target scaled_joint_trajectory_controller_parameters
+[0.038s] [ 20%] Built target gmock
+[0.039s] [ 26%] Built target gpio_controller_parameters
+[0.039s] [ 32%] Built target tool_contact_controller_parameters
+[0.040s] [ 38%] Built target force_mode_controller_parameters
+[0.040s] [ 44%] Built target speed_scaling_state_broadcaster_parameters
+[0.040s] [ 58%] Built target ur_configuration_controller_parameters
+[0.040s] [ 61%] Built target passthrough_trajectory_controller_parameters
+[0.040s] [ 58%] Built target freedrive_mode_controller_parameters
+[0.065s] [ 88%] Built target ur_controllers
+[0.084s] [ 94%] Built target test_load_freedrive_mode_controller
+[0.085s] [100%] Built target test_load_force_mode_controller
+[0.092s] Invoked command in '/home/abhijit/pyproject_ws/build/ur_controllers' returned '0': CMAKE_PREFIX_PATH=/home/abhijit/pyproject_ws/install/ur_dashboard_msgs:/home/abhijit/pyproject_ws/install/ur_simulation_gazebo:/home/abhijit/pyproject_ws/install/ur:/home/abhijit/pyproject_ws/install/ur_calibration:/home/abhijit/pyproject_ws/install/ur_robot_driver:/home/abhijit/pyproject_ws/install/ur_moveit_config:/home/abhijit/pyproject_ws/install/ur_bringup:/home/abhijit/pyproject_ws/install/ur_description:/home/abhijit/pyproject_ws/install/ur_controllers:/home/abhijit/pyproject_ws/install/ur5_python_control:/opt/ros/humble LD_LIBRARY_PATH=/home/abhijit/pyproject_ws/install/ur_dashboard_msgs/lib:/home/abhijit/pyproject_ws/install/ur_robot_driver/lib:/home/abhijit/pyproject_ws/install/ur_controllers/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/abhijit/pyproject_ws/build/ur_controllers -- -j32 -l32
+[0.093s] Invoking command in '/home/abhijit/pyproject_ws/build/ur_controllers': CMAKE_PREFIX_PATH=/home/abhijit/pyproject_ws/install/ur_dashboard_msgs:/home/abhijit/pyproject_ws/install/ur_simulation_gazebo:/home/abhijit/pyproject_ws/install/ur:/home/abhijit/pyproject_ws/install/ur_calibration:/home/abhijit/pyproject_ws/install/ur_robot_driver:/home/abhijit/pyproject_ws/install/ur_moveit_config:/home/abhijit/pyproject_ws/install/ur_bringup:/home/abhijit/pyproject_ws/install/ur_description:/home/abhijit/pyproject_ws/install/ur_controllers:/home/abhijit/pyproject_ws/install/ur5_python_control:/opt/ros/humble LD_LIBRARY_PATH=/home/abhijit/pyproject_ws/install/ur_dashboard_msgs/lib:/home/abhijit/pyproject_ws/install/ur_robot_driver/lib:/home/abhijit/pyproject_ws/install/ur_controllers/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/abhijit/pyproject_ws/build/ur_controllers
+[0.099s] -- Install configuration: ""
+[0.099s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers
+[0.099s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/freedrive_mode_controller_parameters.hpp
+[0.099s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/scaled_joint_trajectory_controller_parameters.hpp
+[0.099s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/gpio_controller_parameters.hpp
+[0.099s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/ur_configuration_controller_parameters.hpp
+[0.099s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/passthrough_trajectory_controller_parameters.hpp
+[0.099s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/tool_contact_controller_parameters.hpp
+[0.099s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/force_mode_controller_parameters.hpp
+[0.099s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/speed_scaling_state_broadcaster_parameters.hpp
+[0.099s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/freedrive_mode_controller_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/scaled_joint_trajectory_controller_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/gpio_controller_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/ur_configuration_controller_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/passthrough_trajectory_controller_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/tool_contact_controller_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/force_mode_controller_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/speed_scaling_state_broadcaster_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/freedrive_mode_controller_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/scaled_joint_trajectory_controller_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/gpio_controller_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/ur_configuration_controller_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/passthrough_trajectory_controller_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/tool_contact_controller_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/force_mode_controller_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/speed_scaling_state_broadcaster_parameters.hpp
+[0.100s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers
+[0.101s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/freedrive_mode_controller_parameters.hpp
+[0.101s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/scaled_joint_trajectory_controller_parameters.hpp
+[0.101s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/gpio_controller_parameters.hpp
+[0.101s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/ur_configuration_controller_parameters.hpp
+[0.101s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/passthrough_trajectory_controller_parameters.hpp
+[0.101s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/tool_contact_controller_parameters.hpp
+[0.101s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/force_mode_controller_parameters.hpp
+[0.102s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/speed_scaling_state_broadcaster_parameters.hpp
+[0.102s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers
+[0.102s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/freedrive_mode_controller_parameters.hpp
+[0.102s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/scaled_joint_trajectory_controller_parameters.hpp
+[0.102s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/gpio_controller_parameters.hpp
+[0.102s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/ur_configuration_controller_parameters.hpp
+[0.102s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/passthrough_trajectory_controller_parameters.hpp
+[0.102s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/tool_contact_controller_parameters.hpp
+[0.102s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/force_mode_controller_parameters.hpp
+[0.102s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/speed_scaling_state_broadcaster_parameters.hpp
+[0.102s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers
+[0.102s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/freedrive_mode_controller_parameters.hpp
+[0.103s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/scaled_joint_trajectory_controller_parameters.hpp
+[0.103s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/gpio_controller_parameters.hpp
+[0.103s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/ur_configuration_controller_parameters.hpp
+[0.103s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/passthrough_trajectory_controller_parameters.hpp
+[0.103s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/tool_contact_controller_parameters.hpp
+[0.104s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/force_mode_controller_parameters.hpp
+[0.104s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/speed_scaling_state_broadcaster_parameters.hpp
+[0.104s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers
+[0.104s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/freedrive_mode_controller_parameters.hpp
+[0.104s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/scaled_joint_trajectory_controller_parameters.hpp
+[0.104s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/gpio_controller_parameters.hpp
+[0.104s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/ur_configuration_controller_parameters.hpp
+[0.105s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/passthrough_trajectory_controller_parameters.hpp
+[0.105s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/tool_contact_controller_parameters.hpp
+[0.105s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/force_mode_controller_parameters.hpp
+[0.105s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/speed_scaling_state_broadcaster_parameters.hpp
+[0.106s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers
+[0.106s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/freedrive_mode_controller_parameters.hpp
+[0.106s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/scaled_joint_trajectory_controller_parameters.hpp
+[0.106s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/gpio_controller_parameters.hpp
+[0.106s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/ur_configuration_controller_parameters.hpp
+[0.106s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/passthrough_trajectory_controller_parameters.hpp
+[0.106s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/tool_contact_controller_parameters.hpp
+[0.107s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/force_mode_controller_parameters.hpp
+[0.107s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/speed_scaling_state_broadcaster_parameters.hpp
+[0.107s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/controller_plugins.xml
+[0.107s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/lib/libur_controllers.so
+[0.107s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include
+[0.107s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers
+[0.107s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/gpio_controller.hpp
+[0.108s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/ur_configuration_controller.hpp
+[0.108s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/passthrough_trajectory_controller.hpp
+[0.108s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/speed_scaling_state_broadcaster.hpp
+[0.108s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/force_mode_controller.hpp
+[0.108s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/freedrive_mode_controller.hpp
+[0.108s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/scaled_joint_trajectory_controller.hpp
+[0.108s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/include/ur_controllers/tool_contact_controller.hpp
+[0.108s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/controller_plugins.xml
+[0.108s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/environment/library_path.sh
+[0.108s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/environment/library_path.dsv
+[0.108s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ament_index/resource_index/package_run_dependencies/ur_controllers
+[0.109s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ament_index/resource_index/parent_prefix_path/ur_controllers
+[0.109s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/environment/ament_prefix_path.sh
+[0.109s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/environment/ament_prefix_path.dsv
+[0.109s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/environment/path.sh
+[0.109s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/environment/path.dsv
+[0.109s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/local_setup.bash
+[0.110s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/local_setup.sh
+[0.110s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/local_setup.zsh
+[0.110s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/local_setup.dsv
+[0.110s] -- Installing: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/package.dsv
+[0.111s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ament_index/resource_index/packages/ur_controllers
+[0.111s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ament_index/resource_index/controller_interface__pluginlib__plugin/ur_controllers
+[0.111s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.111s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.111s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/cmake/ament_cmake_export_libraries-extras.cmake
+[0.112s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/cmake/ur_controllersConfig.cmake
+[0.112s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/cmake/ur_controllersConfig-version.cmake
+[0.112s] -- Up-to-date: /home/abhijit/pyproject_ws/install/ur_controllers/share/ur_controllers/package.xml
+[0.112s] Invoked command in '/home/abhijit/pyproject_ws/build/ur_controllers' returned '0': CMAKE_PREFIX_PATH=/home/abhijit/pyproject_ws/install/ur_dashboard_msgs:/home/abhijit/pyproject_ws/install/ur_simulation_gazebo:/home/abhijit/pyproject_ws/install/ur:/home/abhijit/pyproject_ws/install/ur_calibration:/home/abhijit/pyproject_ws/install/ur_robot_driver:/home/abhijit/pyproject_ws/install/ur_moveit_config:/home/abhijit/pyproject_ws/install/ur_bringup:/home/abhijit/pyproject_ws/install/ur_description:/home/abhijit/pyproject_ws/install/ur_controllers:/home/abhijit/pyproject_ws/install/ur5_python_control:/opt/ros/humble LD_LIBRARY_PATH=/home/abhijit/pyproject_ws/install/ur_dashboard_msgs/lib:/home/abhijit/pyproject_ws/install/ur_robot_driver/lib:/home/abhijit/pyproject_ws/install/ur_controllers/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/abhijit/pyproject_ws/build/ur_controllers

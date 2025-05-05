@@ -1,0 +1,4 @@
+Invoking command in '/home/abhijit/pyproject_ws/build/ur_dashboard_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/abhijit/pyproject_ws/build/ur_dashboard_msgs -- -j32 -l32
+Invoked command in '/home/abhijit/pyproject_ws/build/ur_dashboard_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/abhijit/pyproject_ws/build/ur_dashboard_msgs -- -j32 -l32
+Invoking command in '/home/abhijit/pyproject_ws/build/ur_dashboard_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/abhijit/pyproject_ws/build/ur_dashboard_msgs
+Invoked command in '/home/abhijit/pyproject_ws/build/ur_dashboard_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/abhijit/pyproject_ws/build/ur_dashboard_msgs

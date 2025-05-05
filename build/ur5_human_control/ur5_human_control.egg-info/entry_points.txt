@@ -1,0 +1,3 @@
+[console_scripts]
+ur5_moveit_control = ur5_human_control.ur5_moveit_control:main
+

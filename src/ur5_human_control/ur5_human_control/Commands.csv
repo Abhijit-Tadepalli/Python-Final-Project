@@ -1,0 +1,4 @@
+command,shoulder_pan_joint,shoulder_lift_joint,elbow_joint,wrist_1_joint,wrist_2_joint,wrist_3_joint
+move forward,5.2529,0.5714,-1.4544,3.8393,1.0463,-4.5488
+move left,5.3529,0.5814,-1.4644,3.8293,1.0563,-4.5388
+move up,5.2629,0.5614,-1.4444,3.8493,1.0363,-4.5588
